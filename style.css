@@ -1,0 +1,40 @@
+#body{
+	background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/blackmamba.png);
+	color:#fff;
+}
+
+.heading {
+	font-family: 'Pangolin', cursive;
+}
+
+.box {
+	width:150px;
+	height:150px;
+	border: 5px solid #000;
+	border-radius: 25%;
+	display: block;
+	text-align: center;
+}
+
+#green {
+	background-color: #0f0;
+}
+
+#red {
+	background-color: #f00;
+}
+
+#yellow {
+	background: yellow;
+}
+
+#blue {
+	background: #00f;
+}
+
+#table {
+	margin:0px auto;
+	padding:0px auto;
+	border: 5px solid #000;
+	background: #000;
+}
